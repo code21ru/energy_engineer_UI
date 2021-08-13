@@ -24,4 +24,4 @@ Energy engineer UI - Software solution that helps an engineer in work
 4. Возможность формирования журнала учета отработанного времени сотрудников на объекте
 
 Разворачивание проекта:
-Требования:
+Требования: Bootstrap v5.1
