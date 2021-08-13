@@ -25,3 +25,6 @@ Energy engineer UI - Software solution that helps an engineer in work
 
 Разворачивание проекта:
 Требования: Bootstrap v5.1
+
+
+   
